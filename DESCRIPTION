@@ -15,3 +15,5 @@ Description: Provides a unified framework for penalized maximum likelihood
 License: GPL (>= 3)
 Encoding: UTF-8
 RoxygenNote: 7.3.3
+Imports: 
+    statmod
