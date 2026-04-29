@@ -1,0 +1,13 @@
+**/*.quarto_ipynb
+**/.quarto/
+*.Rproj
+*.o
+*.so
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user
+.Ruserdata
+.httr-oauth
+/.quarto/
+inst/doc

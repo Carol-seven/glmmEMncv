@@ -1,0 +1,17 @@
+Package: glmmEMncv
+Title: Generalized Linear Mixed Models with Nonconvex Penalties using the EM Algorithm
+Version: 0.0.1
+Authors@R: c(
+    person(given = "Shiying", family = "Xiao",
+           email = "shiying.xiao@outlook.com",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8846-3258")))
+Maintainer: Shiying Xiao <shiying.xiao@outlook.com>
+Description: Provides a unified framework for penalized maximum likelihood
+    estimation and variable selection in high-dimensional generalized linear
+    mixed models. It supports multiple penalties, including lasso, SCAD, and MCP,
+    and solves the resulting optimization problems efficiently using an EM
+    algorithm.
+License: GPL (>= 3)
+Encoding: UTF-8
+RoxygenNote: 7.3.3
