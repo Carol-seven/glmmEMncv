@@ -1,8 +1,8 @@
-#' GLMM Log-Likelihood via Gauss–Hermite Quadrature
+#' GLMM Log-Likelihood via Gauss--Hermite Quadrature
 #'
 #' @description
 #' Computes the marginal log-likelihood for a generalized linear mixed model
-#' (GLMM) with binary outcomes using Gauss-Hermite quadrature (GHQ).
+#' (GLMM) with binary outcomes using Gauss--Hermite quadrature (GHQ).
 #'
 #' @param y A binary response vector of length \eqn{n}.
 #'

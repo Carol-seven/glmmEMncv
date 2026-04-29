@@ -2,7 +2,7 @@
 % Please edit documentation in R/glmm_loglik_ghq.R
 \name{glmm_loglik_ghq}
 \alias{glmm_loglik_ghq}
-\title{GLMM Log-Likelihood via Gauss–Hermite Quadrature}
+\title{GLMM Log-Likelihood via Gauss--Hermite Quadrature}
 \usage{
 glmm_loglik_ghq(y, X, W, beta, ni, Q, link = c("logit", "probit"))
 }
@@ -30,7 +30,7 @@ A scalar value representing the marginal log-likelihood of the GLMM.
 }
 \description{
 Computes the marginal log-likelihood for a generalized linear mixed model
-(GLMM) with binary outcomes using Gauss-Hermite quadrature (GHQ).
+(GLMM) with binary outcomes using Gauss--Hermite quadrature (GHQ).
 }
 \details{
 The model assumes
